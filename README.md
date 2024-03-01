@@ -1,2 +1,2 @@
 # HTML-Portfolio
-Here is my first Website being posted on Web server, happy me!!!!
+Here is my first Website being hosted on Web server, happy me!!!!
